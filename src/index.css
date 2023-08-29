@@ -1,0 +1,16 @@
+.bg {
+    background-image: url('./assets/images/bg-1.PNG');
+    height: 'auto';
+    width: 'auto';
+   }
+
+.bg-1 {
+    background-image: url('./assets/images/bg-2.PNG');
+    height: 'auto';
+    width: 'auto';
+   }
+.bg-2 {
+    background-image: url('./assets/images/bg-3.PNG');
+    height: 'auto';
+    width: 'auto';
+   }
